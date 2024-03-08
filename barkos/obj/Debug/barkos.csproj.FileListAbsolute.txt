@@ -1,0 +1,10 @@
+H:\barkos\barkos\bin\Debug\barkos.exe.config
+H:\barkos\barkos\bin\Debug\barkos.exe
+H:\barkos\barkos\bin\Debug\barkos.pdb
+H:\barkos\barkos\obj\Debug\barkos.csproj.AssemblyReference.cache
+H:\barkos\barkos\obj\Debug\barkos.Form1.resources
+H:\barkos\barkos\obj\Debug\barkos.Properties.Resources.resources
+H:\barkos\barkos\obj\Debug\barkos.csproj.GenerateResource.cache
+H:\barkos\barkos\obj\Debug\barkos.csproj.CoreCompileInputs.cache
+H:\barkos\barkos\obj\Debug\barkos.exe
+H:\barkos\barkos\obj\Debug\barkos.pdb
